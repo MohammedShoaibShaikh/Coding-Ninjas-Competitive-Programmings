@@ -1,2 +1,2 @@
-# Coding-Ninjas-Competitive-Programming
+# Coding-Competitive-Programming
 Data Structure Quetions
